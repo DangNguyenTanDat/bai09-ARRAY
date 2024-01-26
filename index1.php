@@ -16,3 +16,4 @@ $numbers[4] = "five";
 foreach ($numbers as $value) {
     echo "Value is $value <br/>";
 }
+?>
